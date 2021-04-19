@@ -1,0 +1,12 @@
+export const URL_DASHBOARD = "/dashboard";
+export const URL_LOGIN = "/login";
+export const URL_INTERESTS = "/interests";
+export const URL_EDUCATION = "/education";
+export const URL_PACKAGE = "/package";
+export const URL_ETNICITY = "/ethnicity";
+export const URL_GENDER = "/gender";
+export const URL_RELIGION = "/religion";
+export const URL_SEXUAL_PREFERENCE = "/sexual-preference";
+export const URL_USER = "/user";
+export const URL_PAGES = "/static-pages";
+export const URL_TEMPLATES = "/templates";
